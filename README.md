@@ -1,4 +1,4 @@
-# Space Wizards Development Wikii
+# Space Wizards Development Wikiii
 
 This is a port of the old Wiki.js SS14 documentation to `mdbook`, for the following benefits:
 - First-class git support, open source and actually editable by everyone
