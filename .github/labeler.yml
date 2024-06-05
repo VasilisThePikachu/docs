@@ -11,6 +11,5 @@
 - 'scripts/**'
 
 "Design":
-- changed-files:
-  - any-glob-to-any-file: '**/proposals/**'
-  - 'src/en/general-proposals/**'
+- 'src/*/space-station-14/*/proposals/**'
+- 'src/*/general-proposals/**'
